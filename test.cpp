@@ -3,4 +3,5 @@
 	printf("testtest");
 
 	森のくまさん
+		あいう
 }
